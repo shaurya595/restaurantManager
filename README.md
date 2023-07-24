@@ -1,6 +1,6 @@
-# restaurantManager
+# HotelManagement
 <!-- Headings -->
-# Restaurant
+
 <!--UL-->
 ## FrameWork And Language Used
 * In this project i am using spring Framework and Java Laguage Used.
